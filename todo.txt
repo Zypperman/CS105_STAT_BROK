@@ -1,0 +1,23 @@
+1. plot meaningful category combinations (aka TSI and Aerosol can alr)
+2. create plots for all samples where meaningul trends are seen
+3. create plots for all samples where meaningul trends are seen BUT SPLIT BY CATEGORY
+4. generate correlation coefficient values for each significant correlation
+    any corr coefficient > 0.6 is worth exploring and considered strong correlation, else its weak
+    consider for linear parts of  non-linear trends
+    add coef in the title for each significant plot
+    justify why this might be so
+5. find similar plots and group them
+
+Variables mapped:
+CO2
+CH4
+Temp
+MEI
+CFC-11
+CFC-12
+continuous_months (months + year * 12)
+
+- separate data by grouping and see if any trend exists as well.
+
+Things to note:
+-for each graph, put corr coe in the title
