@@ -21,3 +21,8 @@ continuous_months (months + year * 12)
 
 Things to note:
 -for each graph, put corr coe in the title
+
+
+
+3a. Univariate analysis, why are there samples with only aerosol readings and nothing else 
+- error elaborated on in code block with the work "ASK FOR HELP" in it.
