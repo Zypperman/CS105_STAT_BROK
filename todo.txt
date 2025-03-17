@@ -1,26 +1,7 @@
 
 General (qn 1 to 3a inclusive)
 - clean and review the doc and code
-- error elaborated on in code block with the work "ASK FOR HELP" in it.
-    - i think only for if you do values.count or some metric, why are there samples with only aerosol readings and nothing else
-- make sure explanations, esp for univariate continuous data, are correct (the text and the code)
-- make sure agnostically decisions made are sound
-
-3b. Univariate analysis, add analysis for categorical Variables
-    ! analyse categorical variables {Aerosols N2O TSI}
-        - add documentation
-
-3c. Bivariate Analysis
-    - bivariate categorical analysis, check whether Aerosols and TSI are independent of each other (see lab2)
-    - plot out and explain graphs with abs correlations > 0.6 (alt: just plot top 5 correlations and explain with research if too much)
-        - comment on how variables change with each other
-    - comment on trends after filtering by category value {ie Aerosols = H, trend between CO2 and CFC but for N2O, Aerosols, and TSI}
-        - separate data by grouping and see if any trend exists as well.
-        - plot them out (i alr have functions for it plotting with correlation I think, if insufficient can make your own lol)
-        - add related research and how it might affect modelling
-        - comment wrt to modelling and why or why not they are worth exploring (like known trends from stuff found online)
-        - optional: plot with separation lines (I've made functions to draft arrays for drawing lines on matplotlib and splitting the dataframe by said lines)
-
+- make sure that agnostically, decisions made are sound, explanations are coherent
 
 part 2
-!!!! analyse variables, figure out part 2 first, we just need a hypothesis, I recommend with CO2 as an independent variable and Aerosols or CFCs cuz they have a lot of chemical interactions
+!!!! analyse variables, figure out part 2 hypothesis
