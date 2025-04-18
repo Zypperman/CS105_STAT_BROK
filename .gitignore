@@ -1,3 +1,8 @@
+# added files
+Project/OLD/graphs
+Project/MAIN/graphs
+Project/REFER/clim_versions/graphs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

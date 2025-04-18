@@ -1,0 +1,7 @@
+
+General (qn 1 to 3a inclusive)
+- clean and review the doc and code
+- make sure that agnostically, decisions made are sound, explanations are coherent
+
+part 2
+!!!! analyse variables, figure out part 2 hypothesis
