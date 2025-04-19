@@ -1,8 +1,6 @@
 Temp
 Temp_MA
 Temp_MA_st
-Temp_change
-Temp_change_st
 Temp_diff_A_from_MA
 Temp_diff_A_from_MA_st
 Temp_diff_from_A
