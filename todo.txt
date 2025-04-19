@@ -1,10 +1,23 @@
+Temp
+Temp_MA
+Temp_MA_st
+Temp_change
+Temp_change_st
+Temp_diff_A_from_MA
+Temp_diff_A_from_MA_st
+Temp_diff_from_A
+Temp_diff_from_A_st
+Temp_diff_from_MA
+Temp_diff_from_MA_st
+Temp_norm
+Temp_norm_st
+Temp_sqrt
+Temp_sqrt_st
 Temp_st
 
 
 sorta work:
 Temp_MA - 741039726951582 MAPE: 67.36890184461191%
-Temp_diff_A_from_MA - 0.7414861313828477 MAPE: 148.6950832360516%
-
 
 Model 3: ElasticNetCV
 -------------------------
